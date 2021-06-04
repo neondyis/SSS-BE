@@ -68,6 +68,13 @@ exports.testDetail = [
 	}
 ];
 
+exports.vacuumSpecific = [
+	auth,
+	function (req, res) {
+
+	}
+];
+
 /**
  * Test store.
  * @param []      		stageTest
